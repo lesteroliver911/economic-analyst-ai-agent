@@ -1,0 +1,6 @@
+agno
+ollama
+lancedb
+duckduckgo-search
+python-dotenv 
+agno openai
