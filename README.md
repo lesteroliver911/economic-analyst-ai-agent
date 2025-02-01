@@ -6,7 +6,7 @@ A lightning-fast, locally-running RAG (Retrieval-Augmented Generation) implement
 ## Features
 
 - **Lightweight Implementation**: Built with Agno AI framework requiring minimal code
-- **Local Model Support**: Uses Llama 3.2 (3B parameters) for inference
+- **Local Model Support**: Uses Llama 3.2 (3B parameters) for inference (toolcalling)
 - **Local Embeddings**: Implements Nomic embeddings for document processing
 - **PDF Processing**: Direct URL-to-PDF processing capability
 - **High Performance**: Optimized for speed and efficiency
