@@ -33,7 +33,7 @@ The implementation shows significant speed improvements compared to traditional 
 ## Acknowledgments
 
 Special thanks to:
-- [Ashpreet Bedi](https://linkedin.com) for introducing the Agno AI framework
+- [Ashpreet Bedi](https://www.linkedin.com/in/ashpreetbedi/) for introducing the Agno AI framework
 - The Agno AI team for their excellent documentation and support
 
 ## Resources
