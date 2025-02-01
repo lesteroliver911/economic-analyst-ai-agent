@@ -1,4 +1,4 @@
-# Economic-analyst-ai-agent
+# Economic Analyst AI Agent w/ Agno Agent Framework
 A lightning-fast, locally-running RAG (Retrieval-Augmented Generation) implementation using the Agno AI framework. The agent leverages Ollama (Llama 3.2 3b) combining structured knowledge from financial reports (PDF Url's) with real-time web searches (duckduckgo). This project demonstrates how to build an efficient question-answering system for PDFs using local models and embeddings.
 
 ![Agno AI RAG Demo](https://github.com/lesteroliver911/economic-analyst-ai-agent/blob/main/asset/agno-ai.gif)
