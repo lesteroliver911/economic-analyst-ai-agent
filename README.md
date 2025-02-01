@@ -36,15 +36,15 @@ Special thanks to:
 - [Ashpreet Bedi](https://linkedin.com) for introducing the Agno AI framework
 - The Agno AI team for their excellent documentation and support
 
-## 📚 Resources
+## Resources
 
 - [Agno AI Documentation](https://docs.agno.com)
 - [Agno AI GitHub Repository](https://github.com/agno-ai/agno)
 
-## ⚠️ Note
+## Note
 
 This is a side project created for educational purposes and to contribute to the developer community. Feel free to use, modify, and share!
 
-## 📄 License
+## License
 
 MIT
