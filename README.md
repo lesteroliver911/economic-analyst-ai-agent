@@ -24,6 +24,10 @@ A lightning-fast, locally-running RAG (Retrieval-Augmented Generation) implement
 - **Model Setup**: Running Ollama with Llama 3.2 3B
 - **Model Performance**: Llama 3.2 3B demonstrated superior performance compared to other tested models in terms of speed and response quality
 
+## Data Source
+
+- **PDF Url**: [US Economics Analyst 2025](https://www.goldmansachs.com/pdfs/insights/goldman-sachs-research/2025-us-economic-outlook-new-policies-similar-path/2025USEconomicOutlook.pdf)
+
 ## Getting Started
 
 1. Clone the repository
