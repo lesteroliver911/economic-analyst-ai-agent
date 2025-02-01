@@ -18,6 +18,12 @@ A lightning-fast, locally-running RAG (Retrieval-Augmented Generation) implement
 - **Language Model**: Llama 3.2 (3B)
 - **Embeddings**: Nomic
 
+## 💻 System Requirements
+
+- **Tested Hardware**: MacBook M1 2021, 8GB RAM
+- **Model Setup**: Running Ollama with Llama 3.2 3B
+- **Model Performance**: Llama 3.2 3B demonstrated superior performance compared to other tested models in terms of speed and response quality
+
 ## Getting Started
 
 1. Clone the repository
